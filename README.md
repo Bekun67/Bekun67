@@ -6,7 +6,7 @@ I'm passionate about programming and creating video games, whether they're perso
 
 Currently, I'm pursuing my degree while developing several personal games alongside my academic work. Here on GitHub, you'll find a collection of my university projects, game jam submissions, and ongoing personal projects.
 
-## Interests
+## 🔎 Interests
 
 - 🎮 Gameplay Programming
 - 🕹️ Game Development
