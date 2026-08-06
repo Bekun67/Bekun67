@@ -13,7 +13,7 @@ Currently, I'm pursuing my degree while developing several personal games alongs
 - 💻 Unity & C++
 - 🚀 Personal Projects
 
-- ## 🔗 Links
+## 🔗 Links
 
 - 🌐 Portfolio: https://bekun67.github.io/portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/isaac-ramírez-prieto-431335415/
