@@ -1,6 +1,7 @@
 # Hi, I'm Isaac 👋
 
-I'm a Game Development student at the Centre de la Imatge i la Tecnologia Multimèdia (CITM-UPC), aspiring to become a professional Game Developer. I'm passionate about programming and creating video games, whether they're personal projects, university assignments, or game jam entries. 
+I'm a Game Development student at the Centre de la Imatge i la Tecnologia Multimèdia (CITM-UPC), aspiring to become a professional Game Programmer, with a particular focus on gameplay programming.
+I'm passionate about programming and creating video games, whether they're personal projects, university assignments, or game jam entries.
 
 Currently, I'm pursuing my degree while developing several personal games alongside my academic work. Here on GitHub, you'll find a collection of my university projects, game jam submissions, and ongoing personal projects. 
 
