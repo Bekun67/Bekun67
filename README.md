@@ -17,7 +17,7 @@ For a complete overview of my work, including detailed project breakdowns, scree
 ## 🔗 Links
 
 - 🌐 Portfolio: https://bekun67.github.io/portfolio/
-- 💼 LinkedIn: https://www.linkedin.com/in/isaac-ramírez-prieto-431335415/
+- 💼 LinkedIn: https://www.linkedin.com/in/isaac-ramírez-prieto/
 - 🎮 Steam Developer: https://store.steampowered.com/search/?developer=Isaac%20Ramírez
 - 📧 Email: isaacramirezpr@gmail.com
 
